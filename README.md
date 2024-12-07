@@ -1,1 +1,2 @@
 # Machine_Learning_24
+Dive into a curated collection of notebooks designed to explore the mathematical foundations of machine learning. From linear algebra and calculus to algorithm implementation, this resource offers tools and insights for those eager to understand and apply Python in solving complex computational problems. Perfect for enthusiasts and professionals alike—explore, learn, and share!
